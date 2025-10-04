@@ -10,4 +10,15 @@ navbar:
       href: Links.html
     - text: "Notes"
       href: Notes.html
+        menu:
+        - text: "Public Policy"
+          href: CopyOfJournal.html
+        - text: "Politics & Violence"
+          href: CopyOfJournal.html
+        - text: "Methods"
+          href: CopyOfJournal.html
+        - text: "Teaching"
+          href:  CopyOfJournal.html
+        - text: "Data & Code"
+          href: CopyOfJournal.html
 output_dir: "docs"
