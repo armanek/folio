@@ -1,4 +1,6 @@
 name: "Ansgarius R. Manek"
+output_dir: "docs"
+
 navbar:
   title: "Ansgarius R. Manek"
   left:
@@ -9,16 +11,16 @@ navbar:
     - text: "Links"
       href: Links.html
     - text: "Notes"
-      href: Notes.html
-        menu:
+      menu:
+        - text: "Overview"
+          href: Notes.html
         - text: "Public Policy"
-          href: CopyOfJournal.html
+          href: Notes/public-policy/index.html
         - text: "Politics & Violence"
-          href: CopyOfJournal.html
+          href: Notes/politics-violence/index.html
         - text: "Methods"
-          href: CopyOfJournal.html
+          href: Notes/methods/index.html
         - text: "Teaching"
-          href:  CopyOfJournal.html
+          href: Notes/teaching/index.html
         - text: "Data & Code"
-          href: CopyOfJournal.html
-output_dir: "docs"
+          href: CopyOfNotes.html
