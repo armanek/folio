@@ -6,7 +6,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
+    - text: "Reserach Interest"
       href: Journal.html
     - text: "Links"
       href: Links.html
