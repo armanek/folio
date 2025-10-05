@@ -15,12 +15,12 @@ navbar:
         - text: "Overview"
           href: Notes.html
         - text: "Public Policy"
-          href: Notes/public-policy/index.html
+          href: CopyOfJournal.html
         - text: "Politics & Violence"
-          href: Notes/politics-violence/index.html
+          href: CopyOfJournal.html
         - text: "Methods"
-          href: Notes/methods/index.html
+          href: CopyOfJournal.html
         - text: "Teaching"
-          href: Notes/teaching/index.html
+          href: CopyOfJournal.html
         - text: "Data & Code"
           href: CopyOfNotes.html
