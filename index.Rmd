@@ -23,11 +23,11 @@ Put Short details here
 
 ## Probably reserach interest 
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+1. fork the repo for this website 
 
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
+2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) 
 
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
+3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links
 
 4. Probably connect to some of your profile in the department
 
@@ -35,9 +35,9 @@ Put Short details here
 </div>
 <div class="col-sm-6">
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
+### [Test](https://crumplab.github.io)
 
 <a href = "https://crumplab.github.io">
-![](images/logo.png)
+![](images/5cm_x_5cm.jpg)
 </a>
 </div>
