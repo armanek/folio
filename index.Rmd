@@ -1,5 +1,5 @@
 ---
-title: "Ansgarius R. Manek"
+title: "About Me"
 output: html_document
 ---
 
@@ -45,10 +45,6 @@ I am always interested in collaborative research opportunities, particularly pro
 
 [![](images/X-Twitter-Logo--Streamline-Logos-Block.svg)](https://x.com/Richard_Manek)
 
-Richard_Manek
-
-[![Ansgarius Manek](images/Linkedin--Streamline-Unicons.svg){width="24"}](https://linkedin.com/in/ansgariusmanek)
+[![](images/Linkedin--Streamline-Unicons.svg){width="24"}](https://linkedin.com/in/ansgariusmanek)
 
 [![](images/Github-Logo-1--Streamline-Ultimate.png){width="24"}](https://github.com/armanek)
-
-armanek
