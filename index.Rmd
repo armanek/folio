@@ -19,23 +19,11 @@ output: html_document
 
 # **Ansgarius R. Manek**
 
-Put Short details here
+I am a PhD student in the [Department of Political Sciene](https://www.colorado.edu/polisci/)  at the University of Colorado, Boulder, specializing in Public Policy and Comparative Politics. My research focuses on the political economy of development, with particular attention to small island and archipelagic countries, indigenous politics, and Indonesian politics.
 
-## Probably reserach interest 
+I hold a Master of Arts in Political Science from the University of Colorado, Boulder, and a Master of Public Policy from American University. Prior to my doctoral studies, I worked as a civil servant in Indonesia, where I served as a Welfare Analyst and Budget and Procurement Analyst. This professional experience informs my research on policy implementation and governance challenges in developing contexts.
 
-1. fork the repo for this website 
-
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) 
-
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links
-
-4. Probably connect to some of your profile in the department
-
-
-</div>
-<div class="col-sm-6">
-
-### [Test](https://crumplab.github.io)
+I hold a BA in Government Science from the Institute Government of Home Affairs in Indonesia, and my graduate education has been fully funded through competitive scholarships from the Indonesian government and the University of Colorado, Boulder.
 
 <a href = "https://crumplab.github.io">
 ![](images/5cm_x_5cm.jpg)
