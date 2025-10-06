@@ -3,6 +3,7 @@ title: "Ansgarius R. Manek"
 output: html_document
 ---
 
+```{=html}
 <style type="text/css">
 .title {
   display: none;
@@ -13,13 +14,13 @@ output: html_document
 }
 
 </style>
-
+```
 <div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
 
+::: col-sm-6
 # **Ansgarius R. Manek**
 
-I am a PhD student in the [Department of Political Sciene](https://www.colorado.edu/polisci/)  at the University of Colorado, Boulder, specializing in Public Policy and Comparative Politics. My research focuses on the political economy of development, with particular attention to small island and archipelagic countries, indigenous politics, and Indonesian politics.
+I am a PhD student in the [Department of Political Sciene](https://www.colorado.edu/polisci/) at the University of Colorado, Boulder, specializing in Public Policy and Comparative Politics. My research focuses on the political economy of development, with particular attention to small island and archipelagic countries, indigenous politics, and Indonesian politics.
 
 I hold a Master of Arts in Political Science from the University of Colorado, Boulder, and a Master of Public Policy from American University. Prior to my doctoral studies, I worked as a civil servant in Indonesia, where I served as a Welfare Analyst and Budget and Procurement Analyst. This professional experience informs my research on policy implementation and governance challenges in developing contexts.
 
@@ -27,24 +28,29 @@ I hold a BA in Government Science from the Institute Government of Home Affairs 
 
 ## Get in touch
 
-Email   : ansgarius.manek@colorado.edu
+Email : [ansgarius.manek\@colorado.edu](mailto:ansgarius.manek@colorado.edu){.email}
 
-Office  : Ketchum 411
+Office : Ketchum 411
 
-Social  :
-
-Office Hours: I hold regular [office hours](https://outlook.office.com/bookwithme/user/4969c59cc8124c1f9e29a58c9d745347@colorado.edu/meetingtype/q0VRfo4mGkiLPewg6yddiQ2?bookingcode=f53bb0db-df71-43ce-a41a-b4ab8a95d1fc&anonymous&ismsaljsauthenabled&ep=mlink) for students in my classes and those interested in discussing research related 
+Office Hours: I hold regular [office hours](https://outlook.office.com/bookwithme/user/4969c59cc8124c1f9e29a58c9d745347@colorado.edu/meetingtype/q0VRfo4mGkiLPewg6yddiQ2?bookingcode=f53bb0db-df71-43ce-a41a-b4ab8a95d1fc&anonymous&ismsaljsauthenabled&ep=mlink) for students in my classes and those interested in discussing research related
 
 ## Collaboration
+
 I am always interested in collaborative research opportunities, particularly projects related to development politics, governance in island states, Indonesian politics, and indigenous political movements. If you would like to discuss potential collaboration, please feel free to reach out via email.
+:::
 
+::: col-sm-3
+<a href = "https://crumplab.github.io"> ![](images/5cm_x_5cm.jpg) </a>
+:::
 
+[![](images/X-Twitter-Logo--Streamline-Logos-Block.svg)](https://x.com/Richard_Manek)
 
-</div>
-<div class="col-sm-3">
+Richard_Manek
 
+[![](images/Linkedin--Streamline-Unicons.svg){width="24"}](linkedin.com/in/ansgariusmanek)
 
-<a href = "https://crumplab.github.io">
-![](images/5cm_x_5cm.jpg)
-</a>
-</div>
+Ansgarius Manek
+
+[![](images/Github-Logo-1--Streamline-Ultimate.png){width="24"}](https://github.com/armanek)
+
+armanek
