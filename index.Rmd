@@ -43,8 +43,8 @@ I am always interested in collaborative research opportunities, particularly pro
 <a href = "https://crumplab.github.io"> ![](images/5cm_x_5cm.jpg) </a>
 :::
 
-[![](images/X-Twitter-Logo--Streamline-Logos-Block.svg)](https://x.com/Richard_Manek)
+[![Richard_Manek](images/X-Twitter-Logo--Streamline-Logos-Block.svg)](https://x.com/Richard_Manek)
 
-[![](images/Linkedin--Streamline-Unicons.svg){width="24"}](https://linkedin.com/in/ansgariusmanek)
+[![Ansgarius Manek](images/Linkedin--Streamline-Unicons.svg){width="24"}](https://linkedin.com/in/ansgariusmanek)
 
-[![](images/Github-Logo-1--Streamline-Ultimate.png){width="24"}](https://github.com/armanek)
+[![armanek](images/Github-Logo-1--Streamline-Ultimate.png){width="24"}](https://github.com/armanek)
