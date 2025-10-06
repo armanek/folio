@@ -47,7 +47,7 @@ I am always interested in collaborative research opportunities, particularly pro
 
 Richard_Manek
 
-[![](images/Linkedin--Streamline-Unicons.svg){width="24"}](linkedin.com/in/ansgariusmanek)
+[![linked in](images/Linkedin--Streamline-Unicons.svg){width="24"}](linkedin.com/in/ansgariusmanek)
 
 Ansgarius Manek
 
