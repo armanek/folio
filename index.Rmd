@@ -40,7 +40,7 @@ I am always interested in collaborative research opportunities, particularly pro
 :::
 
 ::: col-sm-3
-<a href = </a>[![](images/IMG_2068 (1).jpg)](https://www.colorado.edu/polisci/people/graduate-students/ansgarius-manek)
+<a href = </a>[![](images/IMG_2068%20(1).jpg)](https://www.colorado.edu/polisci/people/graduate-students/ansgarius-manek)
 :::
 
 [![](images/Linkedin--Streamline-Unicons.svg){width="24"}](https://linkedin.com/in/ansgariusmanek)
@@ -55,11 +55,14 @@ richard_manek
 
 armanek
 
-
+```` =html
+```{=html}
 <a class="twitter-timeline"
    data-height="600"
-   href="https://twitter.com/your_handle" Tweets by @Richard_Manek </a>
-
+   href="https://twitter.com/Richard_Manek">
+  Tweets by @Richard_Manek
+</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
 
-
+````
