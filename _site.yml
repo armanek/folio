@@ -7,7 +7,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Research"
-      href: Journal.html
+      href: research.html
     - text: "Project"
       href: project.html
     - text: "CV"
