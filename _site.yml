@@ -9,7 +9,7 @@ navbar:
     - text: "Research"
       href: Journal.html
     - text: "Project"
-      href: Links.html
+      href: Journal.html
     - text: "CV"
       href: cv.html
     - text: "Notes"
