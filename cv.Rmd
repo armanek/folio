@@ -1,5 +1,5 @@
 ---
-title: "Journal"
+title: "Curriculum Vitae"
 output:
   html_document:
     toc: true
@@ -14,115 +14,61 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-IMPORTANT: You can delete everything in here and start fresh. You might want to start by not deleting anything above this line until you know what that stuff is doing.
+This is my CV to download
+
+# Education
+PhD, Political Science (Public Policy & Comparative Politics) — University of Colorado Boulder (Aug 2023 – Present)  
+MA, Political Science (Public Policy & Comparative Politics) — University of Colorado Boulder (May 2025)  
+Master of Public Policy (Social Policy & Public Management) — American University, Washington, D.C. (Dec 2021)  
+Civil Service Training — Education & Training Centre, Ministry of Home Affairs, Yogyakarta, Indonesia (Aug 2017)  
+Bachelor of Government Science (Public Policy) — Institute of Government of Home Affairs, Sumedang, West Java (Aug 2016)
+
+# Research Interest
+Political Economy of Development Small Island and Developing States Indigenous Politics
+Indonesian Politics
+
+# Research Experience
+Principal Investigator — Policy Discrimination Against Marginalized Populations in Washington, D.C. (May 2016 – Aug 2016)  
+Principal Investigator — Implementation of the Family Hope Program in the Indonesia–East Timor Border (Aug 2020 – Dec 2020)  
+Research Assistant — US Recall Election Data Collection; Supervisor: Dr. Kenneth Bickers (May 2024 – Aug 2024)  
+Research Assistant — Exploring Inequality as a Political Issue; Supervisor: Dr. Jennifer Fitzgerald (June 2025)
+
+# Research Interests
+Political Economy of Development  
+Small Island and Developing States  
+Indigenous Politics  
+Indonesian Politics
+
+# Research in Progress
+Island Capital Bias in Archipelagic Nations: Geographic Fragmentation and Governance Inequalities  
+When Electoral Bribery Translates to Violence: Regional Tensions and Elite–Institutional Dynamics  
+Moral Hazard in Party Politics: Resource Allocation Between National and Regional Parties  
+Do Petitions Lead Presidential Discourse? Evidence from Computational Text Analysis  
+Legalization of Recreational Marijuana and Minimum Wage in the United States  
+The Effect of the Paris Agreement on Environmental Protection Commitments: A Two-Way Fixed Effects Analysis
+
+# Teaching Experience
+Teaching Assistant — Introduction to American Politics (Fall 2023)  
+Teaching Assistant — Introduction to Public Policy (Spring 2024)  
+Teaching Assistant — Introduction to International Relations (Fall 2024)  
+Teaching Assistant — Introduction to American Politics (Spring 2025)  
+Teaching Assistant — Introduction to International Relations (Fall 2025)
+
+# Service
+Political Science Racial Justice Policy Liaison — University of Colorado Boulder (2024 – 2025)
+
+# Professional Experience
+Welfare Analyst — Ambon City Civil Service Agency, Ambon, Maluku Province (Nov 2017 – Aug 2023)  
+Budget & Procurement Analyst — Bureau of Procurement, East Nusa Tenggara Province, Kupang (Sept 2016 – Oct 2017)
+
+# Skills
+Proficient in statistical analysis software (Stata, RStudio)  
+Languages: Native Indonesian; Advanced English; Advanced Tetum
+
+# Grants and Awards
+University of Colorado — Graduate & Teaching Assistantships (Aug 2023 – Present)  
+Indonesia Endowment Fund for Education (LPDP), Indonesian Ministry of Finance — Fully funded for Master’s program (Jan 2020 – Dec 2021)  
+Institute of Government of Home Affairs Scholarship, Indonesian Ministry of Home Affairs — Fully funded for undergraduate program (Aug 2012 – Aug 2016)
 
 
-This is an .Rmd file. It is plain text with special features. Any time you write just like this, it will be compiled to normal text in the website. If you put a \# in front of your text, it will create a top level-header.
 
-# My first post
-
-2018 | 7 | 23 Last compiled: `r Sys.Date()`
-
-Notice that whatever you define as a top level header, automatically gets put into the table of contents bar on the left. 
-
-## Second level header
-
-You can add more headers by adding more hashtags. These won't be put into the table of contents
-
-### third level header
-
-Here's an even lower level header
-
-# My second post (note the order)
-
-2018 | 7 | 23 Last compiled: `r Sys.Date()`
-
-I'm writing this tutorial going from the top down. And, this is how it will be printed. So, notice the second post is second in the list. If you want your most recent post to be at the top, then make a new post starting at the top. If you want the oldest first, do, then keep adding to the bottom
-
-# Adding R stuff
-
-So far this is just a blog where you can write in plain text and serve your writing to a webpage. One of the main purposes of this lab journal is to record your progress learning R. The reason I am asking you to use this process is because you can both make a website, and a lab journal, and learn R all in R-studio. This makes everything really convenient and in the sam place. 
-
-So, let's say you are learning how to make a histogram in R. For example, maybe you want to sample 100 numbers from a normal distribution with mean = 0, and standard deviation =1, and then you want to plot a histogram. You can do this right here by using an r code block, like this:
-
-```{r}
-samples <- rnorm(100, mean=0, sd=1)
-hist(samples)
-```
-
-When you knit this R Markdown document, you will see that the histogram is printed to the page, along with the R code. This document can be set up to hide the R code in the webpage, just delete the comment (hashtag), from the cold folding option in the yaml header up top. For purposes of letting yourself see the code, and me see the code, best to keep it the way that it is. You learn all of these things and more can be customized in each R code block.
-
-# The big idea
-
-Use this lab journal to record what you do in R. This way I will be able to see what you are doing and help you along the way. You will also be creating a repository of all the things you do. You can make posts about everything. Learning specific things in R (project unrelated), and doing things for the project that we will discuss at the beginning of the Fall semester. You can get started now by fiddling around with googling things, and trying stuff out in R. I've placed some helpful starting links in the links page on this website
-
-# What can you do right now by yourself?
-
-It's hard to learn programming when you don't have specific problems that you are trying to solve. Everything just seems abstract.
-
-I wrote an [introductory programming book that introduces R](https://crumplab.github.io/programmingforpsych/), and gives some [concrete problems for you to solve](https://crumplab.github.io/programmingforpsych/programming-challenges-i-learning-the-fundamentals.html). 
-
-To get the hang of journaling and solving the problems to learn programming, my suggestion is that you use this .Rmd file to solve the problems. It would look like this:
-
-# Problem 1
-
-Do simple math with numbers, addition, subtraction, multiplication, division
-
-```{r}
-1+2
-2*5
-5/3
-(1+6+4)/5
-
-```
-
-# Problem 2
-
-Put numbers into variables, do simple math on the variables
-
-```{r}
-a<-1
-b<-2
-a+b
-
-d<-c(1,2,3)
-e<-c(5,6,7)
-d+e
-d*e
-d/e
-
-```
-
-# Problem 3
-
-Write code that will place the numbers 1 to 100 separately into a variable using for loop. Then, again using the seq function.
-
-```{r}
-# for loop solution
-# i becomes the number 1 to 100 at each step of the loop
-
-
-a <- length(100) # make empty variable, set length to 100
-for (i in 1:100){
-  a[i] <-i #assigns the number in i, to the ith index of a
-}
-
-print(a)
-
-# for loop solution #2
-
-a<-c() #create empty variable using combine command
-for (i in 1:100){
-  a<-c(a,i) # keeps combining a with itself and the new number in i
-}
-print(a)
-
-# seq solution
-a <- seq(1,100,1) # look up help for seq using ?seq() in console
-print(a)
-
-```
-
-# Replace this with problem 4
-
-And keep going. Try to solve the problems with different scripts that provide the same solution. Good luck, Happy coding.
