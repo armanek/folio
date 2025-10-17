@@ -16,59 +16,70 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 This is my CV to download
 
+[Download CV (PDF)](files/Manek_CV.pdf)
+
+<small>Last updated: `r format(Sys.Date(), "%B %Y")`</small>
+
+
 # Education
-PhD, Political Science (Public Policy & Comparative Politics) — University of Colorado Boulder (Aug 2023 – Present)  
-MA, Political Science (Public Policy & Comparative Politics) — University of Colorado Boulder (May 2025)  
-Master of Public Policy (Social Policy & Public Management) — American University, Washington, D.C. (Dec 2021)  
-Civil Service Training — Education & Training Centre, Ministry of Home Affairs, Yogyakarta, Indonesia (Aug 2017)  
-Bachelor of Government Science (Public Policy) — Institute of Government of Home Affairs, Sumedang, West Java (Aug 2016)
+
+PhD, Political Science (Public Policy & Comparative Politics) --- University of Colorado Boulder (Aug 2023 -- Present)\
+MA, Political Science (Public Policy & Comparative Politics) --- University of Colorado Boulder (May 2025)\
+Master of Public Policy (Social Policy & Public Management) --- American University, Washington, D.C. (Dec 2021)\
+Civil Service Training --- Education & Training Centre, Ministry of Home Affairs, Yogyakarta, Indonesia (Aug 2017)\
+Bachelor of Government Science (Public Policy) --- Institute of Government of Home Affairs, Sumedang, West Java (Aug 2016)
 
 # Research Interest
-Political Economy of Development Small Island and Developing States Indigenous Politics
-Indonesian Politics
+
+Political Economy of Development Small Island and Developing States Indigenous Politics Indonesian Politics
 
 # Research Experience
-Principal Investigator — Policy Discrimination Against Marginalized Populations in Washington, D.C. (May 2016 – Aug 2016)  
-Principal Investigator — Implementation of the Family Hope Program in the Indonesia–East Timor Border (Aug 2020 – Dec 2020)  
-Research Assistant — US Recall Election Data Collection; Supervisor: Dr. Kenneth Bickers (May 2024 – Aug 2024)  
-Research Assistant — Exploring Inequality as a Political Issue; Supervisor: Dr. Jennifer Fitzgerald (June 2025)
+
+Principal Investigator --- Policy Discrimination Against Marginalized Populations in Washington, D.C. (May 2016 -- Aug 2016)\
+Principal Investigator --- Implementation of the Family Hope Program in the Indonesia--East Timor Border (Aug 2020 -- Dec 2020)\
+Research Assistant --- US Recall Election Data Collection; Supervisor: Dr. Kenneth Bickers (May 2024 -- Aug 2024)\
+Research Assistant --- Exploring Inequality as a Political Issue; Supervisor: Dr. Jennifer Fitzgerald (June 2025)
 
 # Research Interests
-Political Economy of Development  
-Small Island and Developing States  
-Indigenous Politics  
+
+Political Economy of Development\
+Small Island and Developing States\
+Indigenous Politics\
 Indonesian Politics
 
 # Research in Progress
-Island Capital Bias in Archipelagic Nations: Geographic Fragmentation and Governance Inequalities  
-When Electoral Bribery Translates to Violence: Regional Tensions and Elite–Institutional Dynamics  
-Moral Hazard in Party Politics: Resource Allocation Between National and Regional Parties  
-Do Petitions Lead Presidential Discourse? Evidence from Computational Text Analysis  
-Legalization of Recreational Marijuana and Minimum Wage in the United States  
+
+Island Capital Bias in Archipelagic Nations: Geographic Fragmentation and Governance Inequalities\
+When Electoral Bribery Translates to Violence: Regional Tensions and Elite--Institutional Dynamics\
+Moral Hazard in Party Politics: Resource Allocation Between National and Regional Parties\
+Do Petitions Lead Presidential Discourse? Evidence from Computational Text Analysis\
+Legalization of Recreational Marijuana and Minimum Wage in the United States\
 The Effect of the Paris Agreement on Environmental Protection Commitments: A Two-Way Fixed Effects Analysis
 
 # Teaching Experience
-Teaching Assistant — Introduction to American Politics (Fall 2023)  
-Teaching Assistant — Introduction to Public Policy (Spring 2024)  
-Teaching Assistant — Introduction to International Relations (Fall 2024)  
-Teaching Assistant — Introduction to American Politics (Spring 2025)  
-Teaching Assistant — Introduction to International Relations (Fall 2025)
+
+Teaching Assistant --- Introduction to American Politics (Fall 2023)\
+Teaching Assistant --- Introduction to Public Policy (Spring 2024)\
+Teaching Assistant --- Introduction to International Relations (Fall 2024)\
+Teaching Assistant --- Introduction to American Politics (Spring 2025)\
+Teaching Assistant --- Introduction to International Relations (Fall 2025)
 
 # Service
-Political Science Racial Justice Policy Liaison — University of Colorado Boulder (2024 – 2025)
+
+Political Science Racial Justice Policy Liaison --- University of Colorado Boulder (2024 -- 2025)
 
 # Professional Experience
-Welfare Analyst — Ambon City Civil Service Agency, Ambon, Maluku Province (Nov 2017 – Aug 2023)  
-Budget & Procurement Analyst — Bureau of Procurement, East Nusa Tenggara Province, Kupang (Sept 2016 – Oct 2017)
+
+Welfare Analyst --- Ambon City Civil Service Agency, Ambon, Maluku Province (Nov 2017 -- Aug 2023)\
+Budget & Procurement Analyst --- Bureau of Procurement, East Nusa Tenggara Province, Kupang (Sept 2016 -- Oct 2017)
 
 # Skills
-Proficient in statistical analysis software (Stata, RStudio)  
+
+Proficient in statistical analysis software (Stata, RStudio)\
 Languages: Native Indonesian; Advanced English; Advanced Tetum
 
 # Grants and Awards
-University of Colorado — Graduate & Teaching Assistantships (Aug 2023 – Present)  
-Indonesia Endowment Fund for Education (LPDP), Indonesian Ministry of Finance — Fully funded for Master’s program (Jan 2020 – Dec 2021)  
-Institute of Government of Home Affairs Scholarship, Indonesian Ministry of Home Affairs — Fully funded for undergraduate program (Aug 2012 – Aug 2016)
 
-
-
+University of Colorado --- Graduate & Teaching Assistantships (Aug 2023 -- Present)\
+Indonesia Endowment Fund for Education (LPDP), Indonesian Ministry of Finance --- Fully funded for Master's program (Jan 2020 -- Dec 2021)\
+Institute of Government of Home Affairs Scholarship, Indonesian Ministry of Home Affairs --- Fully funded for undergraduate program (Aug 2012 -- Aug 2016)
