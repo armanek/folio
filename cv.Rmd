@@ -14,9 +14,7 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-This is my CV to download
-
-[Download CV (PDF)](files/Manek_CV.pdf)
+**This is the PDF version to download:** [Download CV (PDF)](files/Manek_CV.pdf)
 
 <small>Last updated: `r format(Sys.Date(), "%B %Y")`</small>
 
