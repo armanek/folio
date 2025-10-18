@@ -3,7 +3,6 @@ output_dir: "docs"
 
 navbar:
   title: "Ansgarius R. Manek"
-  logo:images/a.png
   left:
     - text: "Home"
       href: index.html
