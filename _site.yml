@@ -13,7 +13,7 @@ navbar:
     - text: "Notes"
       menu:
         - text: "Overview"
-          href: notes.html
+          href: overview.html
         - text: "Public Policy"
           href: publicpolicy.html
         - text: "Comparative Politics"
