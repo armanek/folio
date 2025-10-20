@@ -1,5 +1,5 @@
 ---
-title: "Journal"
+title: "Research in Progress"
 output:
   html_document:
     toc: true
@@ -13,11 +13,15 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
-#Research in Progress
-Island Capital Bias in Archipelagic Nations: Geographic Fragmentation and Governance Inequalities
-When Electoral Bribery Translates to Violence: Regional Tensions and Elite–Institutional Dynamics
-Moral Hazard in Party Politics: Resource Allocation Between National and Regional Parties
-Do Petitions Lead Presidential Discourse? Evidence from Computational Text Analysis
-Legalization of Recreational Marijuana and Minimum Wage in the United States
-The Effect of the Paris Agreement on Environmental Protection Commitments: A Two-Way Fixed Effects Analysis
 
+Island Capital Bias in Archipelagic Nations: Geographic Fragmentation and Governance Inequalities
+
+When Electoral Bribery Translates to Violence: Regional Tensions and Elite--Institutional Dynamics
+
+Moral Hazard in Party Politics: Resource Allocation Between National and Regional Parties
+
+Do Petitions Lead Presidential Discourse? Evidence from Computational Text Analysis
+
+Legalization of Recreational Marijuana and Minimum Wage in the United States
+
+The Effect of the Paris Agreement on Environmental Protection Commitments: A Two-Way Fixed Effects Analysis
